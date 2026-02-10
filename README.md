@@ -104,6 +104,7 @@ Built to improve tab management and browser productivity with a beautiful UI and
 
 ---
 
+
 ## 🙌 Support
 
 Feel free to submit issues or feature requests. Contributions welcome!
